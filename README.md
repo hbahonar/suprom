@@ -1,2 +1,2 @@
-# suproman
+# suprom
 Scrum Project Managment
